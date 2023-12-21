@@ -12,6 +12,11 @@
 ### Consulter l'état de l'espace de travail (où on se trouve):
     git status
 
+### Commit :
+    -git add `nom du fichier` ou  * (pour tout commit)
+    -git status (montre les fichiers modifiés qui vont être commit)
+    -git commit -m **"commentaire sur le commit"**
+
 >## **Branch section** 
 >
 >> Création d'une **branche** (en local):

@@ -12,10 +12,28 @@
 ### Consulter l'état de l'espace de travail (où on se trouve):
     git status
 
+---
 ### Commit :
-    -git add `nom du fichier` ou  * (pour tout commit)
-    -git status (montre les fichiers modifiés qui vont être commit)
-    -git commit -m **"commentaire sur le commit"**
+- git add `nom du fichier` ou  * (pour tout commit)
+- git status (montre les fichiers modifiés qui vont être commit)
+- git commit -m **"commentaire sur le commit"**
+
+> Consultation des commit : 
+>- git log (permet de voir la liste des commits, Head = le dernier commit)
+>- git show (montre les détails du dernier commit)
+>- git show `Hash du commit` (hash présent dans git log) pour voir seulement le détail de ce commit 
+
+> Modifier le dernier commit :
+>- git commit --amend (va nous montrer le dernier commit qu'on pourra modifier directement)
+
+> Supprimer des commits contradictoires (si on fait plusieurs commits "inutiles") :
+>- git reset `id` (supprime tous les commits après ce hash tout en gardant le contenu/code)
+>- git reset --hard `id` (supprime tous les commits et contenu)
+
+> Remplacer un commit par un nouveau :
+>- git revert `id`
+
+---
 
 ### Pour ajouter/récupérer code de github :
     -git push (après commit(s))

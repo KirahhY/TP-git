@@ -43,7 +43,7 @@
 - Supprimer les changements depuis le dernier commit : `git restore`
 
 - Supprimer les fichiers inconnus de Git (définitivement) : `git clean`
-![ alt text](/TP-git/getout.gif)
+![ alt text](https://github.com/KirahhY/TP-git/blob/main/getout.gif?raw=true)
 
 - Supprimer les fichiers inconnus de Git (retrouvables) : `git stash`
 

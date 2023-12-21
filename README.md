@@ -33,3 +33,6 @@
 >
 >> Voir les branches de manière visuelle :
 >- git log --all --graph
+
+## 🤝 Contributing:
+    Enzo QUELENIS, Marius OUDIN, BEN NEJMA Mohamed Adam

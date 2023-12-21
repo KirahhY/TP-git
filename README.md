@@ -23,6 +23,16 @@
 >- git show (montre les détails du dernier commit)
 >- git show `Hash du commit` (hash présent dans git log) pour voir seulement le détail de ce commit 
 
+> Modifier le dernier commit :
+>- git commit --amend (va nous montrer le dernier commit qu'on pourra modifier directement)
+
+> Supprimer des commits contradictoires (si on fait plusieurs commits "inutiles") :
+>- git reset `id` (supprime tous les commits après ce hash tout en gardant le contenu/code)
+>- git reset --hard `id` (supprime tous les commits et contenu)
+
+> Remplacer un commit par un nouveau :
+>- git revert `id`
+
 ---
 
 >## **Branch section** 

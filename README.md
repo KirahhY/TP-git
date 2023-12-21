@@ -12,10 +12,18 @@
 ### Consulter l'état de l'espace de travail (où on se trouve):
     git status
 
+---
 ### Commit :
-    -git add `nom du fichier` ou  * (pour tout commit)
-    -git status (montre les fichiers modifiés qui vont être commit)
-    -git commit -m **"commentaire sur le commit"**
+- git add `nom du fichier` ou  * (pour tout commit)
+- git status (montre les fichiers modifiés qui vont être commit)
+- git commit -m **"commentaire sur le commit"**
+
+> Consultation des commit : 
+>- git log (permet de voir la liste des commits, Head = le dernier commit)
+>- git show (montre les détails du dernier commit)
+>- git show `Hash du commit` (hash présent dans git log) pour voir seulement le détail de ce commit 
+
+---
 
 >## **Branch section** 
 >

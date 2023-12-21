@@ -1,5 +1,5 @@
 # TP-git
-## Initiation de repo
+## Initialisation de repo
 ### Ignorer des fichiers :
     .gitignore (mettre dans le .gitignore le nom des fichiers à ignorer)
     Pour : les fichiers d'environnement, les dépendances...

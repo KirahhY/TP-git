@@ -84,5 +84,5 @@ Il est donc nécessaire d'utiliser le id/hash du commit à partir duquel on souh
 
 
 ## 🤝 Contributing:
-    Enzo QUELENIS, Marius OUDIN, BEN NEJMA Mohamed Adam
+    Enzo QUELENIS, Marius OUDIN, BEN NEJMA Mohamed Adam, Florian DELECHAUD
 

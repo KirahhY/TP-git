@@ -10,6 +10,6 @@ Il est donc nécessaire d'utiliser le id/hash du commit à partir duquel on souh
 
 - Enfin, pour que le commit actuel prenne la place d'un commit précedent : `git revert <id>`    
 
-![ alt text](/TP-git/revert_vs_reset.jpg)
+![Texte alternatif](https://github.com/KirahhY/TP-git/blob/main/revert_vs_reset.jpg?raw=true)
 
 

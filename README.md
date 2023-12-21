@@ -17,6 +17,10 @@
     -git status (montre les fichiers modifiés qui vont être commit)
     -git commit -m **"commentaire sur le commit"**
 
+### Pour ajouter/récupérer code de github :
+    -git push (après commit(s))
+    -git pull (pour récupérer le code de github)
+
 >## **Branch section** 
 >
 >> Création d'une **branche** (en local):

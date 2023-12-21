@@ -8,5 +8,8 @@ Par exemple, si je veux modifier le commentaire associé à mon dernier commit, 
 - Pour se retourner à un commit précédent, il faut utiliser : `git reset <id>`  
 Il est donc nécessaire d'utiliser le id/hash du commit à partir duquel on souhaite repartir, tout en conservant les changements en cours.
 
-- Enfin, pour que le commit actuel prenne la place d'un commit précedent : `git revert <id>`
+- Enfin, pour que le commit actuel prenne la place d'un commit précedent : `git revert <id>`    
+
+![ alt text](/TP-git/revert_vs_reset.jpg)
+
 

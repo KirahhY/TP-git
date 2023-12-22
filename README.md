@@ -4,6 +4,8 @@
     .gitignore (mettre dans le .gitignore le nom des fichiers à ignorer)
     Pour : les fichiers d'environnement, les dépendances...
 
+MODIFICATIONS 
+
 ### Initialisation projet : 
     git init (une seule fois par projet!)
 
